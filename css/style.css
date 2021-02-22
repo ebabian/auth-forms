@@ -2,6 +2,19 @@ body {
     background-color: rgb(120, 74, 101);
 }
 
+#login-title {
+    color: white;
+    font-weight: 100;
+    text-transform: uppercase;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
 form {
     /* border: 1px solid salmon; */
     width: 340px;
